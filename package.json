@@ -92,7 +92,7 @@
     "cover": "istanbul cover node_modules/mocha/bin/_mocha -- ./test/unit/index.js"
   },
   "dependencies": {
-    "@anand-io/sip.js": "^0.8.4",
+    "sip.js": "https://github.com/anand-io/SIP.js.git#b0a7cece77077ec5e004bea8862102a7792bc86f",
     "@twilio/webrtc": "^1.1.0",
     "ws": "^3.3.1",
     "xmlhttprequest": "^1.8.0"
